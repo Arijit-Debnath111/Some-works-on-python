@@ -1,4 +1,4 @@
-# Some-works-on-python
+clock 
 some experiments with python
 I made a digital clock with the help of python. 
 for this we need to import tkinter.
